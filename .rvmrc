@@ -1,0 +1,2 @@
+rvm use --create ruby-1.9.3-p125@reddit_together
+export HEROKU_APP=reddit_together-staging
