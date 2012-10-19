@@ -9,8 +9,6 @@
 - User shares a story with another user
 - User is connected with other user
 
-
-
 Visited rules:
 - Once a link is clicked its status is changed to archived, but only the link color changes (gone on next reload)
 - You have a list of archived links
